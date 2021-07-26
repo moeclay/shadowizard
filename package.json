@@ -1,0 +1,22 @@
+{
+  "name": "shadowizarde",
+  "version": "1.0.0",
+  "description": "Add awesome shadow for non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moeclay/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Moe Clay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moeclay/shadowizard/issues"
+  },
+  "homepage": "https://github.com/moeclay/shadowizard#readme"
+}
